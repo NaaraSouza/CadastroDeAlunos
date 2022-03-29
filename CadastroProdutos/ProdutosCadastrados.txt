@@ -1,0 +1,1 @@
+Produto, Nome= Tênis, Categoria= Calçados, Marca= Nike, Preço= 296.95

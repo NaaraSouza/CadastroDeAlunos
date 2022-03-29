@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Produtos>
+    <Produto id="1">
+        <Nome>Tênis</Nome>
+        <Categoria>Calçados</Categoria>
+        <MarcaProduto>
+            <Marca>Nike</Marca>
+            <Preco>296.95</Preco>
+        </MarcaProduto>
+    </Produto>
+</Produtos>
